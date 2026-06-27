@@ -6,4 +6,79 @@
 @theme {
     --font-sans: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
         'Segoe UI Symbol', 'Noto Color Emoji';
+
+    /* Colores personalizados Material Design 3 */
+    --color-tertiary-fixed: #6ffbbe;
+    --color-surface-container-low: #f3f4f5;
+    --color-surface-container: #edeeef;
+    --color-primary-fixed-dim: #ffb3ad;
+    --color-primary: #b61722;
+    --color-outline: #8f6f6d;
+    --color-on-tertiary: #ffffff;
+    --color-secondary-fixed-dim: #adc6ff;
+    --color-secondary-container: #2170e4;
+    --color-tertiary: #006947;
+    --color-on-secondary-fixed: #001a42;
+    --color-inverse-on-surface: #f0f1f2;
+    --color-secondary-fixed: #d8e2ff;
+    --color-surface-tint: #b91a24;
+    --color-on-tertiary-fixed-variant: #005236;
+    --color-on-secondary-container: #fefcff;
+    --color-inverse-surface: #2e3132;
+    --color-surface-dim: #d9dadb;
+    --color-on-primary-fixed: #410004;
+    --color-secondary: #0058be;
+    --color-error-container: #ffdad6;
+    --color-on-error-container: #93000a;
+    --color-on-surface: #191c1d;
+    --color-on-surface-variant: #5b403e;
+    --color-on-secondary-fixed-variant: #004395;
+    --color-outline-variant: #e4beba;
+    --color-background: #f8f9fa;
+    --color-surface-container-lowest: #ffffff;
+    --color-primary-fixed: #ffdad7;
+    --color-tertiary-fixed-dim: #4edea3;
+    --color-primary-container: #da3437;
+    --color-on-background: #191c1d;
+    --color-on-primary-container: #fffbff;
+    --color-inverse-primary: #ffb3ad;
+    --color-tertiary-container: #00855b;
+    --color-surface: #f8f9fa;
+    --color-error: #ba1a1a;
+    --color-on-error: #ffffff;
+    --color-on-secondary: #ffffff;
+    --color-on-tertiary-container: #f5fff6;
+    --color-surface-container-high: #e7e8e9;
+    --color-on-tertiary-fixed: #002113;
+    --color-surface-variant: #e1e3e4;
+    --color-surface-bright: #f8f9fa;
+    --color-on-primary: #ffffff;
+    --color-surface-container-highest: #e1e3e4;
+    --color-on-primary-fixed-variant: #930013;
+
+    /* Border radius */
+    --radius-default: 0.125rem;
+    --radius-lg: 0.25rem;
+    --radius-xl: 0.5rem;
+    --radius-full: 0.75rem;
+
+    /* Espaciado */
+    --spacing-container-margin: 16px;
+    --spacing-md: 16px;
+    --spacing-touch-target: 48px;
+    --spacing-xl: 40px;
+    --spacing-lg: 24px;
+    --spacing-xs: 4px;
+    --spacing-sm: 8px;
+    --spacing-gutter: 16px;
+    --spacing-base: 4px;
+
+    /* Fuentes */
+    --font-display-lg: 'Inter', ui-sans-serif, system-ui, sans-serif;
+    --font-label-bold: 'Inter', ui-sans-serif, system-ui, sans-serif;
+    --font-body-md: 'Inter', ui-sans-serif, system-ui, sans-serif;
+    --font-display-lg-mobile: 'Inter', ui-sans-serif, system-ui, sans-serif;
+    --font-body-lg: 'Inter', ui-sans-serif, system-ui, sans-serif;
+    --font-label-sm: 'Inter', ui-sans-serif, system-ui, sans-serif;
+    --font-headline-md: 'Inter', ui-sans-serif, system-ui, sans-serif;
 }
